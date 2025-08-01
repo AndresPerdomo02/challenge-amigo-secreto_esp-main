@@ -10,25 +10,19 @@ function agregarAmigo() {
     }
     else {
         amigos.push(amigo); // Se agrega un amigo a la lista 
+        document.querySelector('#amigo').value = ""; // Se limpia la caja
         mostrarAmigos(); // Se muestra la lista de amigos
-        limpiarCaja(); // Se limpia la caja
-        
     }
-}
-
-function limpiarCaja() {
-    let valorCaja = document.querySelector('#amigo');
-    valorCaja.value = '';
 }
 
 function mostrarAmigos() {
     let listaHTML = document.getElementById("listaAmigos"); // Se declara la lista
     lista.innerHTML = ""; // Se pone como vacía
 
-    for(let i = 0; i < amigos.length; i++) {
+    amigos.forEach(function(item) {
         let listItem = document.createElement("li");
-        listItem.textContent = amigos[i];
+        listItem.textContent = item;
         listaHTML.appendChild(listItem);
-    }
+    })
 
 }
