@@ -4,6 +4,5 @@ Este es mi primer proyecto web donde practiqué JavaScript, HTML, CSS y cómo us
 El funcionamiento de este proyecto es agregar nombres (mínimo 2), con el fin de escoger uno de manera aleatoria mediante un sorteo.
 
 ## :hammer:Funcionamiento
-- `Funcionalidad 1`: descripción de la funcionalidad 1-
-- `Funcionalidad 2`: descripción de la funcionalidad 2-
-- `Funcionalidad 2a`: descripción de la fun
+- `Añadir amigo`: Escribe el nombre de un amigo y le das en añadir.
+- `Sorteo`: Cuando hayas añadido tantos amigos como quieras, le das en Sortear y te aparecerá el amigo asignado.
