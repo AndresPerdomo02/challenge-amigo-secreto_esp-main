@@ -17,3 +17,4 @@ El funcionamiento de este proyecto es agregar nombres (mínimo 2), con el fin de
 :construction: Se encuentra en desarrollo, puesto que pueden surgir ideas de mejora :construction:
 
 ## Autor
+[Carlos Andrés Perdomo](https://github.com/AndresPerdomo02)
