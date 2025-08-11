@@ -1,4 +1,4 @@
-<h1> App Amigo Secreto </h1>
+# App Amigo Secreto
 
 Este es mi primer proyecto web donde practiqué JavaScript, HTML, CSS y cómo usar Git y GitHub.
 El funcionamiento de este proyecto es agregar nombres (mínimo 2), con el fin de escoger uno de manera aleatoria mediante un sorteo.
@@ -17,4 +17,3 @@ El funcionamiento de este proyecto es agregar nombres (mínimo 2), con el fin de
 :construction: Se encuentra en desarrollo, puesto que pueden surgir ideas de mejora :construction:
 
 ## Autor
-@AndresPerdomo02
